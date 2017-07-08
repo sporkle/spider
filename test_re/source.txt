@@ -1,0 +1,65 @@
+<div class="col-xs-12 index-box">
+        <h2 class="index-title">热门电影<span><a target="_blank" href="http://www.id97.com/movie?tag=%E5%8A%A8%E4%BD%9C">更多&gt;&gt;</a></span></h2>
+        <div style="margin:0 -10px;">
+        <div class="col-xs-1-5 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="变形金刚4：绝迹重生-迅雷下载" target="_blank" href="http://www.id97.com/movie/8126.html">
+        <img class="lazy" data-original="http://img1.xmspc.com/uploads/movie-poster/dif7cg04qmle.jpg" alt="变形金刚4：绝迹重生" title="变形金刚4：绝迹重生" src="http://img1.xmspc.com/uploads/movie-poster/dif7cg04qmle.jpg" style="display: inline;">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.id97.com/movie/8126.html" target="_blank" title="变形金刚4：绝迹重生-迅雷下载">变形金刚4：绝迹重生</a><em> - 6.6分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.id97.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E7%A7%91%E5%B9%BB" class="movietype">科幻</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="肖申克的救赎-迅雷下载" target="_blank" href="http://www.id97.com/movie/912.html">
+        <img class="lazy" data-original="http://img1.xmspc.com/uploads/movie-poster/912.jpg" alt="肖申克的救赎" title="肖申克的救赎" src="http://img1.xmspc.com/uploads/movie-poster/912.jpg" style="display: inline;">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.id97.com/movie/912.html" target="_blank" title="肖申克的救赎-迅雷下载">肖申克的救赎</a><em> - 9.6分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.id97.com/movie/?tag=%E5%89%A7%E6%83%85" class="movietype">剧情</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E7%8A%AF%E7%BD%AA" class="movietype">犯罪</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="神奇女侠-迅雷下载" target="_blank" href="http://www.id97.com/movie/3906.html">
+        <img class="lazy" data-original="http://img1.ziyuan233.com/uploads/movie-poster/dq2uahty58s4.jpg" alt="神奇女侠" title="神奇女侠" src="http://img1.ziyuan233.com/uploads/movie-poster/dq2uahty58s4.jpg" style="display: inline;">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.id97.com/movie/3906.html" target="_blank" title="神奇女侠-迅雷下载">神奇女侠</a><em> - 7.2分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.id97.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E5%86%92%E9%99%A9" class="movietype">冒险</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="金刚：骷髅岛-迅雷下载" target="_blank" href="http://www.id97.com/movie/213428.html">
+        <img class="lazy" data-original="http://img1.saaee.com/uploads/movie-poster/213428.jpg" alt="金刚：骷髅岛" title="金刚：骷髅岛" src="http://img1.saaee.com/uploads/movie-poster/213428.jpg" style="display: inline;">
+    <span class="qtag bdtag">超清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.id97.com/movie/213428.html" target="_blank" title="金刚：骷髅岛-迅雷下载">金刚：骷髅岛</a><em> - 6.7分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.id97.com/movie/?tag=%E5%8A%A8%E4%BD%9C" class="movietype">动作</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E5%A5%87%E5%B9%BB" class="movietype">奇幻</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E5%86%92%E9%99%A9" class="movietype">冒险</a></div>
+    </div>
+    </div>
+</div><div class="col-xs-1-5 movie-item">
+    <div class="movie-item-in">
+    <a style="position:relative;display:block;" title="异形：契约-迅雷下载" target="_blank" href="http://www.id97.com/movie/241849.html">
+        <img class="lazy" data-original="http://img1.saaee.com/uploads/movie-poster/xactpukl86bm.jpg" alt="异形：契约" title="异形：契约" src="http://img1.saaee.com/uploads/movie-poster/xactpukl86bm.jpg" style="display: inline;">
+    <span class="qtag hdtag">高清</span>
+    <div class="item-hover"></div>
+    </a>
+    <div class="meta">
+        <h1><a href="http://www.id97.com/movie/241849.html" target="_blank" title="异形：契约-迅雷下载">异形：契约</a><em> - 7.4分</em></h1>
+        <div class="otherinfo">类型：<a target="_blank" href="http://www.id97.com/movie/?tag=%E7%A7%91%E5%B9%BB" class="movietype">科幻</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E6%83%8A%E6%82%9A" class="movietype">惊悚</a><a target="_blank" href="http://www.id97.com/movie/?tag=%E6%81%90%E6%80%96" class="movietype">恐怖</a></div>
+    </div>
+    </div>
+</div>        </div>
+    </div>

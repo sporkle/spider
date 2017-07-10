@@ -1,0 +1,220 @@
+title: 微软男神夜话-人工智能的美丽新世界
+content: 
+			本课程中，微软亚洲院三位男神以对话的形式，与关注科技圈人工智能的朋友共同探讨，在人工智能的美丽新世界中，我们如何通过人工智能这样强大有潜力的工具来帮助人类解决很多难题。
+		
+classtime: 3课时
+							58分钟
+classlevel: 初级
+learnnum: 1486人学习
+
+title: 微软人工智能概览
+content: 
+			本课将为大家介绍微软研究院最新 AI 成果，以及微软在 Azure 公有云中围绕人工智能和数据分析、深度学习提供的接口和服务，并探讨这些服务如何助力开发人员抢占人工智能的先机。
+		
+classtime: 1课时
+							19分钟
+classlevel: 初级
+learnnum: 2084人学习
+
+title: 微软人工智能 － 深度学习框架
+content: 
+			从最新一次的ImageNet大赛（(ILSVRC）的结果，机器的视觉已经超过人类的视觉，基于深度学习的机器认知能力超过人类似乎指日可待。深度学习在对IT基础设施和IT计算能力有很高要求，而公有云平台降低了深度学习运行的门槛，使得更多的人可以便捷的使用云平台强大的计算能力来完成深度学习相关的计算。
+
+		
+classtime: 4课时
+							167分钟
+classlevel: 高级
+learnnum: 2055人学习
+
+title: 微软人工智能 － 服务和API
+content: 
+			以微软认知服务和机器人框架为代表的服务和API，让你的应用和服务可以轻而易举的拥有人的智慧。
+
+		
+classtime: 6课时
+							212分钟
+classlevel: 初级
+learnnum: 1742人学习
+
+title: 微软人工智能 － 数据分析平台
+content: 
+			随着移动互联网、物联网技术的发展，企业将有能力收集到越来越多的数据，数据的统计、分析甚至是机器学习成为如今最热门的话题。为了满足飞速累积的数据和日益增长的需求，数据分析人员对便捷的机器学习训练工具、高度自管理化的大数据分析平台有着强烈的渴望。
+
+		
+classtime: 3课时
+							122分钟
+classlevel: 中级
+learnnum: 1532人学习
+
+title: 腾讯云产品 - 游戏云
+content: 
+			本课程主要介绍腾讯游戏云相关知识
+		
+classtime: 5课时
+							177分钟
+classlevel: 中级
+learnnum: 9430人学习
+
+title: 前端开发环境搭建(三种工具任选其一)
+content: 
+			本课程介绍常用前端开发工具 Sublime Text / Dreamweaver / WebStorm 的安装与使用技巧
+		
+classtime: 6课时
+							41分钟
+classlevel: 初级
+learnnum: 10431人学习
+
+title: 腾讯大咖分享 - 腾讯大咖分享之技术交流
+content: 
+			本课程主要是腾讯大咖与大家分享一些技术经验与心得。
+		
+classtime: 10课时
+							204分钟
+classlevel: 高级
+learnnum: 8198人学习
+
+title: 腾讯大咖分享 - 腾讯大咖分享之创业心经
+content: 
+			本课程主要是由腾讯大咖为大家分享创业心经。
+		
+classtime: 7课时
+							93分钟
+classlevel: 高级
+learnnum: 5866人学习
+
+title: 腾讯云产品 - 腾讯云通信
+content: 
+			本课程通过实操演示，教大家快速完成SDK集成。
+		
+classtime: 12课时
+							106分钟
+classlevel: 中级
+learnnum: 5551人学习
+
+title: 腾讯云产品 - 腾讯视频云之互动直播
+content: 
+			本课程主要为大家讲解SDK集成，iOS集成。
+		
+classtime: 12课时
+							115分钟
+classlevel: 中级
+learnnum: 4798人学习
+
+title: 腾讯云产品 - 腾讯视频云之直播LVB
+content: 
+			本课程手把手教大家快速调用相关SDK。
+		
+classtime: 4课时
+							85分钟
+classlevel: 中级
+learnnum: 5401人学习
+
+title: 腾讯云产品 - 腾讯云数据库CDB
+content: 
+			本课程主要为大家介绍云数据库的使用入门。
+		
+classtime: 1课时
+							9分钟
+classlevel: 中级
+learnnum: 7825人学习
+
+title: 腾讯云产品 - 在云上搭建自己的Discuz论坛
+content: 
+			本课程通过实操演示，教大家快速掌握云服务器的使用方法。
+		
+classtime: 4课时
+							19分钟
+classlevel: 中级
+learnnum: 5447人学习
+
+title: 腾讯云产品 - 腾讯云云服务器
+content: 
+			本课程主要为大家介绍如何使用Windows系统及Linux系统云服务器。
+		
+classtime: 3课时
+							13分钟
+classlevel: 中级
+learnnum: 5605人学习
+
+title: 腾讯云产品 - 腾讯云内容分发网络CDN
+content: 
+			本课程通过产品介绍、应用场景介绍等，手把手教你快速入门。
+		
+classtime: 4课时
+							14分钟
+classlevel: 中级
+learnnum: 5010人学习
+
+title: 腾讯云产品 - 腾讯云对象存储COS
+content: 
+			本课程深入浅出为你讲解COS的使用方法。
+		
+classtime: 5课时
+							30分钟
+classlevel: 中级
+learnnum: 4479人学习
+
+title: 云计算基础 - 云计算的组成
+content: 
+			本课程主要为大家讲解云计算的组成，COS对象存储及CDN内容分发网络。
+		
+classtime: 4课时
+							22分钟
+classlevel: 初级
+learnnum: 5222人学习
+
+title: 云计算基础 - 一分钟了解云计算
+content: 
+			本课程主要带大家了解什么是云以及云计算的应用场景。
+		
+classtime: 5课时
+							19分钟
+classlevel: 初级
+learnnum: 5424人学习
+
+title: 打造你自己的Dragonboard 410c
+content: 
+			本课主要阐述Dragonboard  410c支持的软硬件环境，外设接口，以及功能用途的同时，教大家如何去购买及使用Dragonboard  410c开发板。
+		
+classtime: 3课时
+							16分钟
+classlevel: 初级
+learnnum: 4653人学习
+
+title: NDK编程开发
+content: 
+			本课主要教大家如何在Android应用开发中加入NDK的编程开发，旨在借此让大家学会在Java代码中嵌入C/C++的高效代码，实现java/C混合编程。
+		
+classtime: 3课时
+							22分钟
+classlevel: 初级
+learnnum: 4625人学习
+
+title: 应用开发和部署实例
+content: 
+			本课主要是教大家一款应用程序的开发、调试和部署。通过Android提供的蓝牙、网络通讯等模块的接口，讲解应用中对接口的调用和调试，并详细讲解应用在Studio虚拟设备上的部署和设备上的部署运行。
+		
+classtime: 2课时
+							27分钟
+classlevel: 初级
+learnnum: 3798人学习
+
+title: 简介Dragonboard 410c网络服务
+content: 
+			1.介绍DragonBoard 410c网络服务
+2.配置Dragonboard 410c网络服务
+		
+classtime: 2课时
+							12分钟
+classlevel: 初级
+learnnum: 2952人学习
+
+title: Android应用开发
+content: 
+			本课将教大家如何进行Android的游戏应用开发，包括介绍所开发游戏的架构及软件的应用接口等等，目的是让大家学会在Dragonboard410c 上开发属于自己游戏应用。
+		
+classtime: 2课时
+							17分钟
+classlevel: 初级
+learnnum: 6670人学习
+

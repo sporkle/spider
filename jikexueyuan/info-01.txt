@@ -1,0 +1,144 @@
+title: 微软男神夜话-人工智能的美丽新世界
+classtime: 3课时
+							58分钟
+classlevel: 初级
+learnnum: 1486人学习
+
+title: 微软人工智能概览
+classtime: 1课时
+							19分钟
+classlevel: 初级
+learnnum: 2084人学习
+
+title: 微软人工智能 － 深度学习框架
+classtime: 4课时
+							167分钟
+classlevel: 高级
+learnnum: 2055人学习
+
+title: 微软人工智能 － 服务和API
+classtime: 6课时
+							212分钟
+classlevel: 初级
+learnnum: 1742人学习
+
+title: 微软人工智能 － 数据分析平台
+classtime: 3课时
+							122分钟
+classlevel: 中级
+learnnum: 1532人学习
+
+title: 腾讯云产品 - 游戏云
+classtime: 5课时
+							177分钟
+classlevel: 中级
+learnnum: 9430人学习
+
+title: 前端开发环境搭建(三种工具任选其一)
+classtime: 6课时
+							41分钟
+classlevel: 初级
+learnnum: 10431人学习
+
+title: 腾讯大咖分享 - 腾讯大咖分享之技术交流
+classtime: 10课时
+							204分钟
+classlevel: 高级
+learnnum: 8198人学习
+
+title: 腾讯大咖分享 - 腾讯大咖分享之创业心经
+classtime: 7课时
+							93分钟
+classlevel: 高级
+learnnum: 5866人学习
+
+title: 腾讯云产品 - 腾讯云通信
+classtime: 12课时
+							106分钟
+classlevel: 中级
+learnnum: 5551人学习
+
+title: 腾讯云产品 - 腾讯视频云之互动直播
+classtime: 12课时
+							115分钟
+classlevel: 中级
+learnnum: 4798人学习
+
+title: 腾讯云产品 - 腾讯视频云之直播LVB
+classtime: 4课时
+							85分钟
+classlevel: 中级
+learnnum: 5401人学习
+
+title: 腾讯云产品 - 腾讯云数据库CDB
+classtime: 1课时
+							9分钟
+classlevel: 中级
+learnnum: 7825人学习
+
+title: 腾讯云产品 - 在云上搭建自己的Discuz论坛
+classtime: 4课时
+							19分钟
+classlevel: 中级
+learnnum: 5447人学习
+
+title: 腾讯云产品 - 腾讯云云服务器
+classtime: 3课时
+							13分钟
+classlevel: 中级
+learnnum: 5605人学习
+
+title: 腾讯云产品 - 腾讯云内容分发网络CDN
+classtime: 4课时
+							14分钟
+classlevel: 中级
+learnnum: 5010人学习
+
+title: 腾讯云产品 - 腾讯云对象存储COS
+classtime: 5课时
+							30分钟
+classlevel: 中级
+learnnum: 4479人学习
+
+title: 云计算基础 - 云计算的组成
+classtime: 4课时
+							22分钟
+classlevel: 初级
+learnnum: 5222人学习
+
+title: 云计算基础 - 一分钟了解云计算
+classtime: 5课时
+							19分钟
+classlevel: 初级
+learnnum: 5424人学习
+
+title: 打造你自己的Dragonboard 410c
+classtime: 3课时
+							16分钟
+classlevel: 初级
+learnnum: 4653人学习
+
+title: NDK编程开发
+classtime: 3课时
+							22分钟
+classlevel: 初级
+learnnum: 4625人学习
+
+title: 应用开发和部署实例
+classtime: 2课时
+							27分钟
+classlevel: 初级
+learnnum: 3798人学习
+
+title: 简介Dragonboard 410c网络服务
+classtime: 2课时
+							12分钟
+classlevel: 初级
+learnnum: 2952人学习
+
+title: Android应用开发
+classtime: 2课时
+							17分钟
+classlevel: 初级
+learnnum: 6670人学习
+
